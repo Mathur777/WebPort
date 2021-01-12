@@ -1,0 +1,406 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+
+
+
+.navbar-expand-lg{
+	background-color:white
+}
+
+
+
+.my-class{
+	background-color:#E8D3D3;
+}
+
+
+hr {
+  display: block;
+ 
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-width: 2px;
+  background-color: green;
+}
+
+.navbar-brand{
+
+font-family: 'Poppins',Montserrat-Bold;
+	font-size: 20px;
+	color: black;
+
+
+}
+
+.nav-link {
+
+	font-family:'Poppins', Montserrat-Bold;
+	font-size: 17px;
+	color: black;
+	text-transform: capitalize;
+	margin-right: 5px;
+
+
+
+}
+.myimg{
+
+	position: absolute;
+padding-top: 50px;
+width: 100%;
+height: 110%;
+margin-left: 0px;
+
+
+}
+.mytext1{
+
+	color: black;
+	text-transform: capitalize;
+
+
+}
+
+.mytext0{
+	margin: 0px 50px;
+	color:black;
+text-transform: capitalize;
+font-size: 50px;
+font-family: Anton;
+animation-delay: 1s;
+font-weight: bolder;
+
+}
+
+.my-span{
+	color:#527AF0;
+	font-family:'Poppins', Montserrat-Bold;
+
+}
+
+
+.mytex{
+	margin: 30px 50px;
+	color: black;
+	padding-top: 70px;
+	font-size: 50px;
+	text-transform: capitalize;
+	font-family: Montserrat-Bold;
+	font-weight: bolder;
+
+}
+.btn-primary{
+
+
+	font-size: 25px;
+	width: 160px;
+	text-transform: uppercase;
+	animation-delay: 3s;
+	margin: 10px 50px;
+
+}
+.btn-outline-success{
+
+font-size: 25px;
+	width: 160px;
+	text-transform: uppercase;
+	color:white;
+    margin-left: 50px !important;
+
+}
+
+.mytext1{
+margin: 20px 50px;
+font-family: Montserrat-Bold;
+font-size: 30px;
+color: black;
+animation-delay: 2s;
+font-weight: bolder;
+
+}
+.badge-primary{
+
+font-size: 40px;
+text-align: center;
+
+}
+.img1{
+width: 90%;
+height: 110%;
+padding-left: 10px;
+animation-duration: 2s;
+margin-top: 0px;
+
+
+
+
+
+
+}
+.ab-text{
+
+font-family:'Poppins',sans-serif;
+margin: 70px 90px;
+text-transform: capitalize;
+font-weight: 30px;
+color: #0069FF;
+text-align: center;
+text-decoration: underline;
+isolation: isolate;
+
+
+
+}
+
+
+
+
+ .badge-warning{
+
+ 	margin: 5px 50px;
+ 	font-size: 25px;
+ 	font-family:'Poppins',sans-serif;
+
+ 	text-transform: uppercase;
+
+ }
+ .my-t{
+
+margin: 5px 50px;
+font-size: 35px;
+font-family: 'Poppins',sans-serif;
+color: #4070F4;
+text-transform: capitalize;
+animation-delay: 2s;
+  animation-duration: 2s;
+  font-weight: bolder;
+  text-decoration: underline;
+  isolation: isolate;
+ }
+
+ 
+ .ab1{
+
+ 	margin:  30px 90px;
+ 	font-size: 25px;
+ 	color: black;
+ 	font-family: 'Poppins',sans-serif;
+
+}
+.ph-t {
+margin: 0px 90px;
+padding-top: 10px;
+text-transform: uppercase;
+font-family: 'Poppins',sans-serif;
+
+color: #702eab;
+
+}
+
+
+
+
+
+
+.progress-title{
+    font-size: 18px;
+    font-weight: 700;
+    color: #000;
+    margin: 0 0 30px;
+}
+.progress{
+    height: 17px;
+    background: rgba(0,0,0,0.1);
+    border-radius: 15px;
+    margin-bottom: 30px;
+    overflow: visible;
+    position: relative;
+}
+.progress .progress-bar{
+    border-radius: 15px;
+    box-shadow: none;
+    position: relative;
+    animation: animate-positive 2s;
+}
+.progress .progress-icon,
+.progress .progress-value{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    line-height: 40px;
+    background: #fff;
+    border: 7px solid #1f75c4;
+    font-size:15px;
+    font-weight: 600;
+    color: #1f75c4;
+    position: absolute;
+    top: -17px;
+    right: -5px;
+}
+.progress .progress-icon{
+    right: auto;
+    left: -5px;
+}
+.progress.orange .progress-icon,
+.progress.orange .progress-value{
+    border: 7px solid #f7810e;
+    color: #f7810e;
+}
+.progress.pink .progress-icon,
+.progress.pink .progress-value{
+    border: 7px solid #f2438f;
+    color: #f2438f;
+}
+.progress.green .progress-icon,
+.progress.green .progress-value{
+    border: 7px solid #08a061;
+    color: #08a061;
+}
+@-webkit-keyframes animate-positive{
+    0%{ width: 0; }
+}
+@keyframes animate-positive{
+    0%{ width: 0; }
+}
+
+
+
+
+.my-cont{
+
+
+	margin: 20px 50px;
+}
+
+
+.cont-txt{
+
+	font-family: 'Poppins',sans-serif;
+
+font-size: 40px;
+text-transform: uppercase;
+color: #FF0F50;
+
+
+}
+.tt{
+
+	font-family: 'Poppins',sans-serif;
+
+	font-size: 25px;
+	color: black;
+}
+
+
+
+
+.px-md-1{
+	animation-delay: 2s;
+	animation-duration: 4s;
+}
+
+.my-text{
+	font-weight: bolder;
+	text-shadow: 4px 4px #82c4c3;
+	color:black;
+	font-family: 'Poppins',sans-serif;
+
+	padding-left: 90px;
+	text-transform: capitalize;
+}
+
+mark {
+	background-color: yellow;
+	color: black;
+  }
+
+  .my-5{
+	  font-style: bolder;
+	  font-size: 25px;
+	  font-family: 'Poppins',sans-serif;
+
+	  color:black;
+	  
+  }
+  .h1-responsive{
+	  color:#4673F3;
+	  font-size: 35px;
+	  font-weight: bolder;
+	  text-decoration: underline;
+	  isolation: isolate;
+  }
+ 
+  /*medaiquery*/
+  
+  @media screen and (max-width:700px){
+	.ab1{
+		color: black;
+		font-size:20px;
+		margin:  0px 0px;
+	}
+
+  }
+  @media screen and (max-width:400px){
+	.ab1{
+		color: black;
+		width:auto;
+		font-size: 17px;
+	}
+	.mytext0{
+		margin: 0px 0px;
+		width:auto;
+	}
+.mytex{
+	margin: 12px 0px;
+	width:auto;
+}
+.mytext1{
+	margin: 12px 0px;
+	width:auto;
+	font-size: 25px;
+}
+.myimg{
+	position: relative;
+	margin:0px 0px;
+	width: 85%;
+	height: 85%;
+}
+
+.img1{
+	position: relative;
+	margin-top:12px;
+	 width:100%;
+	 height:95%;
+}
+
+.ab-text{
+	margin: 0px 0px;
+}
+.my-text{
+	text-transform: capitalize;
+	margin-left:  -90px;
+}
+
+  }
+
+  
+  
+
+  .darkmode--activated p {
+	color:white;
+  }
+  
+  .darkmode--activated .mytex{
+	  color:white;
+  }
+  .darkmode--activated .mytext0{
+	color:white;
+}
+.darkmode--activated .mytext1{
+	color:white;
+}
+.darkmode--activated .text-uppercase{
+	color:white;
+}
+
